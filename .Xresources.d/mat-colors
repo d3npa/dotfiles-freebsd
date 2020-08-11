@@ -1,0 +1,39 @@
+! https://github.com/MartinSeeler/iterm2-material-design/blob/master/colors.md
+
+! special
+*.background:   #021b21
+*.cursorColor:  #ECEFF1
+*.foreground:   #ECEFF1
+
+! black
+*.color0:       #546E7A
+*.color8:       #B0BEC5
+
+! red
+*.color1:       #FF5252
+*.color9:       #FF8A80
+
+! green
+*.color2:       #5CF19E
+*.color10:      #B9F6CA
+
+! yellow
+*.color3:       #FFD740
+*.color11:      #FFE57F
+
+! blue
+*.color4:       #40C4FF
+*.color12:      #80D8FF
+
+! magenta
+*.color5:       #FF4081
+*.color13:      #FF80AB
+
+! cyan
+*.color6:       #64FCDA
+*.color14:      #A7FDEB
+
+! white
+*.color7:       #FFFFFF
+*.color15:      #FFFFFF
+

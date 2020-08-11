@@ -1,0 +1,30 @@
+include MINIMAL
+
+ident CUSTOM-SMOL
+
+# ATA/SCSI
+device 		scbus
+device 		da
+
+# NVM Express
+device 		nvme
+device 		nvd
+
+# PCCARD (PCMCIA)
+device 		cbb
+device 		pccard
+device 		cardbus
+
+# Networking
+device 		em
+device 		wlan
+device 		iwn
+
+# Pseudodevs
+nodevice 	vlan
+device 		crypto
+device 		firmware
+
+# Xen
+nooptions 	XENHVM
+nodevice 	xenpci
