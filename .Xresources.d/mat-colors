@@ -1,7 +1,8 @@
 ! https://github.com/MartinSeeler/iterm2-material-design/blob/master/colors.md
 
 ! special
-*.background:   #021b21
+*.background:   #0A0E14
+!021b21
 *.cursorColor:  #ECEFF1
 *.foreground:   #ECEFF1
 

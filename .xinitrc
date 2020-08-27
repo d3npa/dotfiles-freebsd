@@ -28,5 +28,6 @@ xrandr --output eDP-1 --mode 2560x1440
 xrdb ~/.Xresources
 redshift -l 48.13:11.57 &
 xautolock -time 20 -locker 'sh -c "xset dpms 10 && slock && xset dpms 0"' &
+ssh-agent &
 
 exec dwm
